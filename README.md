@@ -4,14 +4,14 @@
               =;,...'::+:~~*++*;*+==*~.'~:~
           ;;**~,'.,::~;:..','..'::,.,,'~;~,;=
         :,;;~~;~,',',~??=*++========*,.'::,''*
-        ,..;*~::*=773$90###888@@@#880$?;,.....*                    -- Sayan ----------------------------
+        ,..;*~::*=773$90###888@@@#880$?;,.....*            ▨ Sayan ----------------------------
        ;..:;:;+3%90#8@@@0##8888##99&099%7;....;                     
-       ,..'.;3$&&#0&&&&&999&99&00$$%$%$$$7,...~                     Final-year B.Tech CSE student with a strong foundation in Java,
-       :...~3900&00#8@8####@@@@@88#&9$$&9%*...;                     DSA, OOP, and DBMS. Experienced in building backend applications and 
-        ...:%0#&$%3$9$3$#888&$?~,,'''..,*39=..                      microservices with Spring Boot, Spring Cloud, Spring Security,REST APIs
-        :'.7#%:.,;==+*,.+%09+.:=+?9&9&3?79?7~,                      JPA, Eureka, Docker.
+       ,..'.;3$&&#0&&&&&999&99&00$$%$%$$$7,...~            Final-year B.Tech CSE student with a strong foundation in Java,
+       :...~3900&00#8@8####@@@@@88#&9$$&9%*...;            DSA, OOP, and DBMS. Experienced in building backend applications and 
+        ...:%0#&$%3$9$3$#888&$?~,,'''..,*39=..             microservices with Spring Boot, Spring Cloud, Spring Security, JPA
+        :'.7#%:.,;==+*,.+%09+.:=+?9&9&3?79?7~,             REST APIs, Eureka, Docker.
          '~3%73999&%+~==:?97~*?:,+::,:.'*7?,.*$                             
-         ;,?=%*..'..~+:*.8@@7'++=7~:*=*7%%%7+?93                    Tech Stack --- Java, Spring-Boot          
+         ;,?=%*..'..~+:*.8@@7'++=7~:*=*7%%%7+?93           ▨ Tech Stack --- Java, Spring-Boot          
        +=$,7%9$%%99$$99=?@@@8=~39000000&$9$%?'$9                      
        &#&'3$9&#@@@888%:$@@@@&=,3&00&&$%&0$?*.3&                           
         90,~7&&99099&&??~,;;~,:+30#&&&&0&7+*:.$3                    
